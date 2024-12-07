@@ -1,0 +1,18 @@
+.vaccination-gender-container {
+  background-color: #1c1c2b;
+  width: 100%;
+  padding: 10px;
+  border-radius: 20px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.vaccination-gender-heading {
+  color: #94a3b8;
+  font-weight: bold;
+  font-size: 20px;
+  align-self: flex-start;
+}
